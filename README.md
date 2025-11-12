@@ -53,7 +53,7 @@ Elle leur permet de :
 
 | Partenaire | Rôle envisagé | Statut |
 |-------------|----------------|---------|
-| **Entreprise pilote – Sainte-Marie (Martinique)** | Test terrain du prototype et remontée de feedbacks | 🤝 Confirmé |
+| **Entreprise pilote – ** | Test terrain du prototype et remontée de feedbacks | 🤝 Confirmé |
 | **Durabook** | Fournisseur de tablettes durcies pour chantiers | 💬 En discussion |
 | **BGE / Pôle Emploi Martinique** | Accompagnement à la création d’entreprise | 🗓️ À rencontrer |
 | **CTM / Chambre des Métiers** | Soutien au développement numérique local | 🎯 Ciblé pour subvention |
